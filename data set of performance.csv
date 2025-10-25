@@ -1,0 +1,16 @@
+Player,Team,Matches,Goals,Assists,PassAccuracy,ShotsOnTarget,MinutesPlayed,YellowCards,RedCards,Age
+Messi,A,10,12,8,89,45,850,1,0,36
+Ronaldo,A,10,9,5,84,42,870,2,0,38
+Neymar,A,9,7,6,90,37,780,3,0,32
+Mbappe,B,10,10,6,88,39,890,0,0,25
+Salah,B,10,7,4,85,33,800,1,0,31
+Haaland,B,10,11,3,80,49,870,0,0,24
+De Bruyne,C,9,5,10,92,28,830,1,0,33
+Foden,C,10,6,7,87,35,840,1,0,23
+Kane,D,10,8,4,83,41,850,2,0,30
+Son,D,10,7,5,86,34,810,0,0,29
+Benzema,E,10,9,6,88,40,860,2,0,37
+Vinicius,E,10,8,8,86,38,830,1,0,24
+Lewandowski,F,10,10,4,85,45,880,3,0,35
+Pedri,F,10,4,9,91,27,820,0,0,21
+Modric,F,9,3,10,93,22,800,1,0,38
