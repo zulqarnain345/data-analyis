@@ -1,0 +1,32 @@
+Car_Name,Brand,Year,Fuel_Type,Transmission,Engine_Size,Mileage,Seats,Price,Seller_Type,Kilometers_Driven
+Civic,Honda,2020,Petrol,Automatic,1800,14.5,5,23000,Dealer,15000
+City,Honda,2018,Diesel,Manual,1500,20.4,5,15000,Individual,32000
+Corolla,Toyota,2019,Petrol,Automatic,1600,16.3,5,19000,Dealer,22000
+Camry,Toyota,2021,Hybrid,Automatic,2500,22.1,5,35000,Certified Dealer,10000
+Model 3,Tesla,2022,Electric,Automatic,0,450,5,48000,Dealer,5000
+Mustang,Ford,2019,Petrol,Manual,5000,8.5,4,55000,Dealer,12000
+EcoSport,Ford,2018,Diesel,Manual,1500,21.5,5,16000,Individual,40000
+Altis,Toyota,2017,Petrol,Manual,1600,15.1,5,13000,Individual,50000
+Accord,Honda,2021,Hybrid,Automatic,2400,19.8,5,34000,Certified Dealer,9000
+Swift,Maruti,2020,Petrol,Manual,1200,22.5,5,11000,Dealer,25000
+Baleno,Maruti,2019,Petrol,Manual,1200,21.3,5,10500,Dealer,27000
+Fortuner,Toyota,2021,Diesel,Automatic,2800,12.4,7,46000,Dealer,8000
+Innova,Toyota,2018,Diesel,Manual,2400,15.8,7,28000,Individual,60000
+Creta,Hyundai,2020,Diesel,Automatic,1600,19.0,5,24000,Certified Dealer,18000
+Venue,Hyundai,2021,Petrol,Automatic,1200,18.5,5,20000,Dealer,12000
+Elantra,Hyundai,2019,Petrol,Manual,1600,16.9,5,17000,Individual,30000
+Sonata,Hyundai,2022,Hybrid,Automatic,2000,24.2,5,33000,Dealer,7000
+Range Rover,Land Rover,2021,Diesel,Automatic,3000,10.5,7,85000,Dealer,9000
+Defender,Land Rover,2020,Petrol,Automatic,2000,11.2,7,78000,Certified Dealer,8000
+Ciaz,Suzuki,2019,Petrol,Manual,1500,20.8,5,14000,Individual,28000
+Alto,Suzuki,2018,Petrol,Manual,800,23.9,4,7000,Individual,40000
+Baleno,Suzuki,2020,Petrol,Manual,1200,22.1,5,11500,Dealer,22000
+X5,BMW,2021,Diesel,Automatic,3000,14.2,5,70000,Dealer,10000
+3 Series,BMW,2020,Petrol,Automatic,2000,15.3,5,54000,Certified Dealer,13000
+A4,Audi,2021,Petrol,Automatic,2000,17.1,5,58000,Dealer,9000
+Q7,Audi,2020,Diesel,Automatic,3000,13.5,7,75000,Dealer,11000
+Seltos,Kia,2020,Diesel,Manual,1600,18.8,5,21000,Individual,19000
+Sportage,Kia,2021,Petrol,Automatic,2000,16.5,5,27000,Dealer,14000
+Picanto,Kia,2019,Petrol,Manual,1000,20.9,4,9500,Individual,31000
+Model X,Tesla,2023,Electric,Automatic,0,400,7,89000,Dealer,4000
+Cybertruck,Tesla,2024,Electric,Automatic,0,500,5,98000,Dealer,1000
